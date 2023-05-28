@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/3613044/screenshots/19211886/media/07d929b61e4cbfd35f0b49cbab8aae0d.png?compress=1&resize=750x300&vertical=top)]()
 <h1 align="center">Hi 👋, I'm Uzezi Henry Ovraiti</h1>
-<h3 align="center">A passionate Fullstack Software Engineer</h3>
+<h3 align="center">A passionate and results-driven Full-Stack software engineer with a deep love for creating innovative solutions.</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/2008861/screenshots/15526868/media/75d00bc49c493701ec1a0cd51da86a8e.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovidot&label=Profile%20views&color=0e75b6&style=flat" alt="ovidot" /> </p>
