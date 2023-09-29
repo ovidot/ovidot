@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Ovidot Journal**
 
-- 🌱 I’m currently learning **Next-js**
+- 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [uzeziovraiti.com](uzeziovraiti.com)
+- 👨‍💻 All of my projects are available at [uzeziovraiti.com](ovidot.netlify.app)
 
 - 💬 Ask me about **Python(flask)**
 
