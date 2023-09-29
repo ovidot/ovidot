@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [uzeziovraiti.com](ovidot.netlify.app)
+- 👨‍💻 All of my projects are available at [uzeziovraiti.com](https://ovidot.netlify.app/)
 
 - 💬 Ask me about **Python(flask)**
 
